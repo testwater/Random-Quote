@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/testwater/Random-Quote.git/static/css/main.767de1e8.chunk.css",
+    "main.js": "/testwater/Random-Quote.git/static/js/main.87f67c6a.chunk.js",
+    "main.js.map": "/testwater/Random-Quote.git/static/js/main.87f67c6a.chunk.js.map",
+    "runtime-main.js": "/testwater/Random-Quote.git/static/js/runtime-main.6b8b3a1c.js",
+    "runtime-main.js.map": "/testwater/Random-Quote.git/static/js/runtime-main.6b8b3a1c.js.map",
+    "static/js/2.550cb3e0.chunk.js": "/testwater/Random-Quote.git/static/js/2.550cb3e0.chunk.js",
+    "static/js/2.550cb3e0.chunk.js.map": "/testwater/Random-Quote.git/static/js/2.550cb3e0.chunk.js.map",
+    "index.html": "/testwater/Random-Quote.git/index.html",
+    "static/css/main.767de1e8.chunk.css.map": "/testwater/Random-Quote.git/static/css/main.767de1e8.chunk.css.map",
+    "static/js/2.550cb3e0.chunk.js.LICENSE.txt": "/testwater/Random-Quote.git/static/js/2.550cb3e0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/testwater/Random-Quote.git/static/media/bg.2d022325.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8b3a1c.js",
+    "static/js/2.550cb3e0.chunk.js",
+    "static/css/main.767de1e8.chunk.css",
+    "static/js/main.87f67c6a.chunk.js"
+  ]
+}
